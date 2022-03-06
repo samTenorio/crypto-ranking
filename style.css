@@ -1,0 +1,17 @@
+
+body{
+    margin: 30px
+}
+
+.bg-primary{
+    color: lightYellow ;
+    background-color: rgb(189, 184, 184);
+}
+
+td {
+    text-align: center;
+}
+
+table th {
+    text-align: center;
+}
